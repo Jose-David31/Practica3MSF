@@ -2,7 +2,7 @@
 
 # Práctica: Sistema musculoesquelético
 
-## Información deL estudiante
+## Información del estudiante
 
 Ramírez Ruiz José David [22212268]; l22212268a@tectijuana.edu.mx
 
